@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Library">
+</Property><Property Name="Solution File" Value="E:\Desktop\Lib Project\New Pro\Library\Library.sln">
+</Property><Property Name="User Options File" Value="E:\Desktop\Lib Project\New Pro\Library\Library.suo">
+</Property><Property Name="Date" Value="Saturday, May 01, 2010">
+</Property><Property Name="Time" Value="7:05 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Library.sln" Description="File successfully backed up as E:\Desktop\Lib Project\New Pro\Library\Backup\Library.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Library.suo" Description="File successfully backed up as E:\Desktop\Lib Project\New Pro\Library\Backup\Library.suo">
+</Event><Event ErrorLevel="0" Project="Library" Source="Library.vbproj" Description="Project file successfully backed up as E:\Desktop\Lib Project\New Pro\Library\Backup\Library.vbproj">
+</Event><Event ErrorLevel="0" Project="Library" Source="Library.vbproj.user" Description="Project user file successfully backed up as E:\Desktop\Lib Project\New Pro\Library\Backup\Library.vbproj.user">
+</Event><Event ErrorLevel="0" Project="Library" Source="AssemblyInfo.vb" Description="File successfully backed up as E:\Desktop\Lib Project\New Pro\Library\Backup\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="Library" Source="ClassAuthor.vb" Description="File successfully backed up as E:\Desktop\Lib Project\New Pro\Library\Backup\ClassAuthor.vb">
+</Event><Event ErrorLevel="0" Project="Library" Source="classBook.vb" Description="File successfully backed up as E:\Desktop\Lib Project\New Pro\Library\Backup\classBook.vb">
+</Event><Event ErrorLevel="0" Project="Library" Source="ClassBookCopy.vb" Description="File successfully backed up as E:\Desktop\Lib Project\New Pro\Library\Backup\ClassBookCopy.vb">
+</Event><Event ErrorLevel="0" Project="Library" Source="ClassBorrowdCopy.vb" Description="File successfully backed up as E:\Desktop\Lib Project\New Pro\Library\Backup\ClassBorrowdCopy.vb">
+</Event><Event ErrorLevel="0" Project="Library" Source="ClassBorrowingType.vb" Description="File successfully backed up as E:\Desktop\Lib Project\New Pro\Library\Backup\ClassBorrowingType.vb">
+</Event><Event ErrorLevel="0" Project="Library" Source="ClassLogginUser.vb" Description="File successfully backed up as E:\Desktop\Lib Project\New Pro\Library\Backup\ClassLogginUser.vb">
+</Event><Event ErrorLevel="0" Project="Library" Source="ClassMember.vb" Description="File successfully backed up as E:\Desktop\Lib Project\New Pro\Library\Backup\ClassMember.vb">
+</Event><Event ErrorLevel="0" Project="Library" Source="ClassReservedCopy.vb" Description="File successfully backed up as E:\Desktop\Lib Project\New Pro\Library\Backup\ClassReservedCopy.vb">
+</Event><Event ErrorLevel="0" Project="Library" Source="ClassStaff.vb" Description="File successfully backed up as E:\Desktop\Lib Project\New Pro\Library\Backup\ClassStaff.vb">
+</Event><Event ErrorLevel="0" Project="Library" Source="ClassStudent.vb" Description="File successfully backed up as E:\Desktop\Lib Project\New Pro\Library\Backup\ClassStudent.vb">
+</Event><Event ErrorLevel="0" Project="Library" Source="clsDb.vb" Description="File successfully backed up as E:\Desktop\Lib Project\New Pro\Library\Backup\clsDb.vb">
+</Event><Event ErrorLevel="0" Project="Library" Source="ds1.vb" Description="File successfully backed up as E:\Desktop\Lib Project\New Pro\Library\Backup\ds1.vb">
+</Event><Event ErrorLevel="0" Project="Library" Source="frmAddMemberType.vb" Description="File successfully backed up as E:\Desktop\Lib Project\New Pro\Library\Backup\frmAddMemberType.vb">
+</Event><Event ErrorLevel="0" Project="Library" Source="frmAuthorReg.vb" Description="File successfully backed up as E:\Desktop\Lib Project\New Pro\Library\Backup\frmAuthorReg.vb">
+</Event><Event ErrorLevel="0" Project="Library" Source="frmBookCopyReg.vb" Description="File successfully backed up as E:\Desktop\Lib Project\New Pro\Library\Backup\frmBookCopyReg.vb">
+</Event><Event ErrorLevel="0" Project="Library" Source="frmBookReg.vb" Description="File successfully backed up as E:\Desktop\Lib Project\New Pro\Library\Backup\frmBookReg.vb">
+</Event><Event ErrorLevel="0" Project="Library" Source="frmDeleteUser.vb" Description="File successfully backed up as E:\Desktop\Lib Project\New Pro\Library\Backup\frmDeleteUser.vb">
+</Event><Event ErrorLevel="0" Project="Library" Source="frmEditAuthor.vb" Description="File successfully backed up as E:\Desktop\Lib Project\New Pro\Library\Backup\frmEditAuthor.vb">
+</Event><Event ErrorLevel="0" Project="Library" Source="frmEditMemberDetails.vb" Description="File successfully backed up as E:\Desktop\Lib Project\New Pro\Library\Backup\frmEditMemberDetails.vb">
+</Event><Event ErrorLevel="0" Project="Library" Source="frmEditMemLevel.vb" Description="File successfully backed up as E:\Desktop\Lib Project\New Pro\Library\Backup\frmEditMemLevel.vb">
+</Event><Event ErrorLevel="0" Project="Library" Source="frmEditUser.vb" Description="File successfully backed up as E:\Desktop\Lib Project\New Pro\Library\Backup\frmEditUser.vb">
+</Event><Event ErrorLevel="0" Project="Library" Source="frmLend.vb" Description="File successfully backed up as E:\Desktop\Lib Project\New Pro\Library\Backup\frmLend.vb">
+</Event><Event ErrorLevel="0" Project="Library" Source="frmLendingConf.vb" Description="File successfully backed up as E:\Desktop\Lib Project\New Pro\Library\Backup\frmLendingConf.vb">
+</Event><Event ErrorLevel="0" Project="Library" Source="frmlogging.vb" Description="File successfully backed up as E:\Desktop\Lib Project\New Pro\Library\Backup\frmlogging.vb">
+</Event><Event ErrorLevel="0" Project="Library" Source="frmMenu.vb" Description="File successfully backed up as E:\Desktop\Lib Project\New Pro\Library\Backup\frmMenu.vb">
+</Event><Event ErrorLevel="0" Project="Library" Source="frmNewUser.vb" Description="File successfully backed up as E:\Desktop\Lib Project\New Pro\Library\Backup\frmNewUser.vb">
+</Event><Event ErrorLevel="0" Project="Library" Source="frmOverdueRe.vb" Description="File successfully backed up as E:\Desktop\Lib Project\New Pro\Library\Backup\frmOverdueRe.vb">
+</Event><Event ErrorLevel="0" Project="Library" Source="frmRemoveBook.vb" Description="File successfully backed up as E:\Desktop\Lib Project\New Pro\Library\Backup\frmRemoveBook.vb">
+</Event><Event ErrorLevel="0" Project="Library" Source="frmRemoveMember.vb" Description="File successfully backed up as E:\Desktop\Lib Project\New Pro\Library\Backup\frmRemoveMember.vb">
+</Event><Event ErrorLevel="0" Project="Library" Source="frmReservation.vb" Description="File successfully backed up as E:\Desktop\Lib Project\New Pro\Library\Backup\frmReservation.vb">
+</Event><Event ErrorLevel="0" Project="Library" Source="frmReturn.vb" Description="File successfully backed up as E:\Desktop\Lib Project\New Pro\Library\Backup\frmReturn.vb">
+</Event><Event ErrorLevel="0" Project="Library" Source="frmSearchBook.vb" Description="File successfully backed up as E:\Desktop\Lib Project\New Pro\Library\Backup\frmSearchBook.vb">
+</Event><Event ErrorLevel="0" Project="Library" Source="frmStaffReg.vb" Description="File successfully backed up as E:\Desktop\Lib Project\New Pro\Library\Backup\frmStaffReg.vb">
+</Event><Event ErrorLevel="0" Project="Library" Source="frmStart.vb" Description="File successfully backed up as E:\Desktop\Lib Project\New Pro\Library\Backup\frmStart.vb">
+</Event><Event ErrorLevel="0" Project="Library" Source="frmStuReg.vb" Description="File successfully backed up as E:\Desktop\Lib Project\New Pro\Library\Backup\frmStuReg.vb">
+</Event><Event ErrorLevel="0" Project="Library" Source="Module1.vb" Description="File successfully backed up as E:\Desktop\Lib Project\New Pro\Library\Backup\Module1.vb">
+</Event><Event ErrorLevel="0" Project="Library" Source="App.config" Description="File successfully backed up as E:\Desktop\Lib Project\New Pro\Library\Backup\App.config">
+</Event><Event ErrorLevel="0" Project="Library" Source="ds1.xsx" Description="File successfully backed up as E:\Desktop\Lib Project\New Pro\Library\Backup\ds1.xsx">
+</Event><Event ErrorLevel="0" Project="Library" Source="ds1.xsd" Description="File successfully backed up as E:\Desktop\Lib Project\New Pro\Library\Backup\ds1.xsd">
+</Event><Event ErrorLevel="0" Project="Library" Source="frmAddMemberType.resx" Description="File successfully backed up as E:\Desktop\Lib Project\New Pro\Library\Backup\frmAddMemberType.resx">
+</Event><Event ErrorLevel="0" Project="Library" Source="frmAuthorReg.resx" Description="File successfully backed up as E:\Desktop\Lib Project\New Pro\Library\Backup\frmAuthorReg.resx">
+</Event><Event ErrorLevel="0" Project="Library" Source="frmBookCopyReg.resx" Description="File successfully backed up as E:\Desktop\Lib Project\New Pro\Library\Backup\frmBookCopyReg.resx">
+</Event><Event ErrorLevel="0" Project="Library" Source="frmBookReg.resx" Description="File successfully backed up as E:\Desktop\Lib Project\New Pro\Library\Backup\frmBookReg.resx">
+</Event><Event ErrorLevel="0" Project="Library" Source="frmDeleteUser.resx" Description="File successfully backed up as E:\Desktop\Lib Project\New Pro\Library\Backup\frmDeleteUser.resx">
+</Event><Event ErrorLevel="0" Project="Library" Source="frmEditAuthor.resx" Description="File successfully backed up as E:\Desktop\Lib Project\New Pro\Library\Backup\frmEditAuthor.resx">
+</Event><Event ErrorLevel="0" Project="Library" Source="frmEditMemberDetails.resx" Description="File successfully backed up as E:\Desktop\Lib Project\New Pro\Library\Backup\frmEditMemberDetails.resx">
+</Event><Event ErrorLevel="0" Project="Library" Source="frmEditMemLevel.resx" Description="File successfully backed up as E:\Desktop\Lib Project\New Pro\Library\Backup\frmEditMemLevel.resx">
+</Event><Event ErrorLevel="0" Project="Library" Source="frmEditUser.resx" Description="File successfully backed up as E:\Desktop\Lib Project\New Pro\Library\Backup\frmEditUser.resx">
+</Event><Event ErrorLevel="0" Project="Library" Source="frmLend.resx" Description="File successfully backed up as E:\Desktop\Lib Project\New Pro\Library\Backup\frmLend.resx">
+</Event><Event ErrorLevel="0" Project="Library" Source="frmLendingConf.resx" Description="File successfully backed up as E:\Desktop\Lib Project\New Pro\Library\Backup\frmLendingConf.resx">
+</Event><Event ErrorLevel="0" Project="Library" Source="frmlogging.resx" Description="File successfully backed up as E:\Desktop\Lib Project\New Pro\Library\Backup\frmlogging.resx">
+</Event><Event ErrorLevel="0" Project="Library" Source="frmMenu.resx" Description="File successfully backed up as E:\Desktop\Lib Project\New Pro\Library\Backup\frmMenu.resx">
+</Event><Event ErrorLevel="0" Project="Library" Source="frmNewUser.resx" Description="File successfully backed up as E:\Desktop\Lib Project\New Pro\Library\Backup\frmNewUser.resx">
+</Event><Event ErrorLevel="0" Project="Library" Source="frmOverdueRe.resx" Description="File successfully backed up as E:\Desktop\Lib Project\New Pro\Library\Backup\frmOverdueRe.resx">
+</Event><Event ErrorLevel="0" Project="Library" Source="frmRemoveBook.resx" Description="File successfully backed up as E:\Desktop\Lib Project\New Pro\Library\Backup\frmRemoveBook.resx">
+</Event><Event ErrorLevel="0" Project="Library" Source="frmRemoveMember.resx" Description="File successfully backed up as E:\Desktop\Lib Project\New Pro\Library\Backup\frmRemoveMember.resx">
+</Event><Event ErrorLevel="0" Project="Library" Source="frmReservation.resx" Description="File successfully backed up as E:\Desktop\Lib Project\New Pro\Library\Backup\frmReservation.resx">
+</Event><Event ErrorLevel="0" Project="Library" Source="frmReturn.resx" Description="File successfully backed up as E:\Desktop\Lib Project\New Pro\Library\Backup\frmReturn.resx">
+</Event><Event ErrorLevel="0" Project="Library" Source="frmSearchBook.resx" Description="File successfully backed up as E:\Desktop\Lib Project\New Pro\Library\Backup\frmSearchBook.resx">
+</Event><Event ErrorLevel="0" Project="Library" Source="frmStaffReg.resx" Description="File successfully backed up as E:\Desktop\Lib Project\New Pro\Library\Backup\frmStaffReg.resx">
+</Event><Event ErrorLevel="0" Project="Library" Source="frmStart.resx" Description="File successfully backed up as E:\Desktop\Lib Project\New Pro\Library\Backup\frmStart.resx">
+</Event><Event ErrorLevel="0" Project="Library" Source="frmStuReg.resx" Description="File successfully backed up as E:\Desktop\Lib Project\New Pro\Library\Backup\frmStuReg.resx">
+</Event><Event ErrorLevel="0" Project="Library" Source="Library.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Library" Source="Library.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Library.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Library.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Library" Source="Library.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
